@@ -1,2 +1,3 @@
 - https://psystat.tistory.com/119?category=1206707
+- https://enidanny.github.io/investing/invest-python-analysis1/
 - 
